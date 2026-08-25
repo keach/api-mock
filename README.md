@@ -63,7 +63,7 @@ OSのファイアウォールを有効にしている場合は、TCP 8000番ポ�
 ## Test
 
 ```bash
-pytest
+python -m pytest
 ```
 
 ## Project structure
